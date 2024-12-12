@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muwawu Moses
-- 👀 I’m interested in Web development using Django framework, Wagtail CMS and web3
-- 🌱 I’m currently learning Django and Wagtail frameworks 
-- 💞️ I’m looking to collaborate on the Wagtail project
+- 🌱 A smart-contracts engineer(Both Vyper and Solidity)
+- 👀 A backend developer with over 4+ years in FastApi, Django and Flask.
 - 📫 How to reach me on mosikoproducts@gmail.com
 
 <!---
